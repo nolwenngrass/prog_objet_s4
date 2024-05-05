@@ -1,4 +1,4 @@
-**<font color="red">Nous avons oublié de l'écrire dans le rapport mais nous avons ajouté une fonctionnalité de durée de vie des boids (boid.lifespan).**
+**<font color="red">/!\ Nous avons oublié de l'écrire dans le rapport mais nous avons ajouté une fonctionnalité de durée de vie des boids (boid.lifespan).</font>**
 
 # Simple-p6-Setup
 
